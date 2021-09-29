@@ -1,3 +1,4 @@
+This is a forked repository.
 Calculator
 ---
 <img src="Logotype primary.png" width="60%" height="60%" />
