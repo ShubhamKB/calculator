@@ -1,5 +1,5 @@
 pipeline {
-    agent any;
+    agent any
     
     tools {
         nodejs "22292-nodejs-tool"
